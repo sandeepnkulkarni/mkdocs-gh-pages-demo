@@ -1,0 +1,12 @@
+site_name: Github Actions Demo
+
+theme:
+  name: material
+  features:
+    - tabs
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+copyright: Copyright &copy; 2020 Sandeep Kulkarni
